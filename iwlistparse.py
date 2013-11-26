@@ -2,6 +2,7 @@
 #
 # iwlistparse.py
 # Hugo Chargois - 17 jan. 2010 - v.0.1
+# Julien Rhodes - Modified to handle output from new iwlist (debian wireless-tools 30~pre9-8)
 # Parses the output of iwlist scan into a table
 
 import sys
